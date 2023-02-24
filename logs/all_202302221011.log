@@ -1,0 +1,9 @@
+2023-02-22 10:11:31,539 -mylogger- INFO - start test...
+2023-02-22 10:11:33,594 -mylogger- INFO - input username:admin
+2023-02-22 10:11:33,637 -mylogger- INFO - input pwd:123456
+2023-02-22 10:11:33,678 -mylogger- INFO - input captcha:6666
+2023-02-22 10:11:33,716 -mylogger- INFO - login...
+2023-02-22 10:11:35,777 -mylogger- INFO - input username:admin
+2023-02-22 10:11:35,823 -mylogger- INFO - input pwd:123456
+2023-02-22 10:11:36,301 -mylogger- INFO - input captcha:4ury
+2023-02-22 10:11:36,324 -mylogger- INFO - login...
