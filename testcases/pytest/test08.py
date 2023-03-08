@@ -33,4 +33,3 @@ class TestEditPage():
 
 if __name__ == '__main__':
     pytest.main(['--alluredir', './reports', 'test08.py'])
-    pytest.main(['--alluredir', './reports', 'test08.py'])
